@@ -1,4 +1,4 @@
-# 🧭 Indoor–Outdoor Campus Navigation System
+# Campus Navigation System
 
 An interactive **indoor navigation system** built with **Flutter Web + Leaflet-style mapping**, designed to help users seamlessly find the **shortest path between rooms across multiple floors**.  
 Think of it as **Google Maps for campuses and buildings**, where GPS is unreliable indoors.
